@@ -1,5 +1,5 @@
 {
-  "name": "speedline-weather-demo",
+  "name": "weather-demo",
   "version": "1.0.0",
   "description": "\"Weather Demo\"",
   "main": "app.js",
